@@ -25,16 +25,16 @@
 - A: 深绿AC了4题，浅绿3题，黄色2题，橙色1题
 
 ## Q5: 视频是指哪个？
-- A: 请订阅疯宝每日打卡视频， https://www.youtube.com/user/wisdompeak/videos
+- A: 请订阅疯宝每日打卡视频， [https://www.youtube.com/user/wisdompeak/videos](https://www.youtube.com/user/wisdompeak/videos)
 - [每日一题](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0)
 
 ## Q6: 大人物
 - A: 四大天王崔日安一，群主疯宝慧峰大师，专业开光
 
 ## Q7: 相关群
-- 天堂群，退群课申请，天堂群不打卡
-- 系统群，群友列表里搜系统加入
-- 八股群，群友列表里搜八股加入
+- 天堂群，退群可申请，天堂群不打卡
+- 系统群，群友列表里搜"系统"加入
+- 八股群，群友列表里搜"八股"加入
 
 ## Q8: 红包规则
 - 灌水 50
