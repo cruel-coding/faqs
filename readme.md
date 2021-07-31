@@ -1,7 +1,8 @@
 # 残酷群 FAQ
 - 积分榜 [http://board.cruelcoding.com/](http://board.cruelcoding.com/)
 
-## Q1: 1869,Longer Contiguous Segments of Ones than Zeros,longer-contiguous-segments-of-ones-than-zeros,1204.9864820183
+## Q1: 题目难度，零神大数据
+- 1869,Longer Contiguous Segments of Ones than Zeros,longer-contiguous-segments-of-ones-than-zeros,1204.9864820183
 - A: 题号，题目，难度
 - 举例：力扣积分超过1204的群友，有50%的可能能做对这题。
 - [https://zerotrac.github.io/leetcode_problem_rating/](https://zerotrac.github.io/leetcode_problem_rating/)
@@ -35,7 +36,7 @@
 - 系统群，群友列表里搜系统加入
 - 八股群，群友列表里搜八股加入
 
-## Q7: 红包规则
+## Q8: 红包规则
 - 灌水 50
 - 打卡 人数包
 - 周赛 人数包
