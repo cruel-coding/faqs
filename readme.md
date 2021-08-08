@@ -28,8 +28,9 @@
 - A: 请订阅疯宝每日打卡视频， [https://www.youtube.com/user/wisdompeak/videos](https://www.youtube.com/user/wisdompeak/videos)
 - [每日一题](https://docs.google.com/spreadsheets/d/1kBGyRsSdbGDu7DzjQcC-UkZjZERdrP8-_QyVGXHSrB8/edit#gid=0)
 
-## Q6: 大人物
+## Q6: 大神
 - A: 四大天王崔日安一，群主疯宝慧峰大师，专业开光
+- 一神算法视频，https://www.bilibili.com/video/BV1dJ411D7Xc
 
 ## Q7: 相关群
 - 天堂群，退群可申请，天堂群不打卡
