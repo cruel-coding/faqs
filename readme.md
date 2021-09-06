@@ -43,3 +43,14 @@
 - 周赛 人数包
 - 迎大神包
 - [http://board.cruelcoding.com/rules.html](http://board.cruelcoding.com/rules.html)
+
+## Q9: 残酷四绝
+- 一神讲座
+- https://space.bilibili.com/97228279/video
+- 疯宝每日一题
+- https://www.youtube.com/user/wisdompeak/videos
+- 柳老师笔记
+- https://liuzhenglaichn.gitbook.io/algorithm/dynamic-programming/bitmask-dp
+- https://github.com/lzl124631x/LeetCode/tree/master/leetcode/1494.%20Parallel%20Courses%20II
+- 媛媛姐算法
+- TODO
