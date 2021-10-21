@@ -76,3 +76,50 @@
 - 周赛可以缺，最近三次选两次最高的，算平均分
 - https://faq.cruelcoding.com/
 
+## Q13：推荐视频
+### 残酷群主
+- 残酷刷题群2020年会（工作总结暨表彰大会）-剪辑版
+- https://www.bilibili.com/video/BV1Qp4y1B7Y3
+- 残酷刷题群算法小讲座：动态规划的套路
+- https://www.bilibili.com/video/BV1gf4y1i78H
+
+### 一神
+- [Algorithm][001] 链表 Linked List 双向链表 Doubly Linked List [OTTFF]
+- https://www.bilibili.com/video/BV1Zt411A7pq
+- [Algorithm][002] 栈 Stack 队列 Queue 双端队列 Deque [OTTFF]
+- https://www.bilibili.com/video/BV1ot411M7EP
+- [Algorithm][003] 二分搜索 Binary Search 三分搜索 Ternary Search [OTTFF]
+- https://www.bilibili.com/video/BV1zt411N7dH
+- [Algorithm][004] 快速幂 Quick Power 矩阵快速幂 [OTTFF]
+- https://www.bilibili.com/video/BV1Q4411U7cC
+- [Algorithm][005] 图的数据结构 Graph Data Structure 邻接矩阵 邻接表 [OTTFF]
+- https://www.bilibili.com/video/BV1b4411r7PH
+- [Algorithm][006] 广度优先搜索 Breadth First Search（BFS）[OTTFF]
+- https://www.bilibili.com/video/BV164411r79D
+- [Algorithm][007] 深度优先搜索 Depth First Search (DFS) [OTTFF]
+- https://www.bilibili.com/video/BV1z4411278H
+- [Algorithm][008] 前缀和 Prefix Sum & 差分 Difference [OTTFF]
+- https://www.bilibili.com/video/BV1r4411k7dL
+- [Algorithm][009] 并查集 Disjoint Set Union (Union Find) 及带权并查集 [OTTFF]
+- https://www.bilibili.com/video/BV1BJ41137qp
+- [Algorithm][010] 计数排序 Counting Sort 快速排序 Quick Sort 归并排序 Merge Sort [OTTFF]
+- https://www.bilibili.com/video/BV1QE411X7mA
+- [Algorithm][011] 动态规划 Dynamic Programming(DP) 背包DP 3讲 [OTTFF]
+- https://www.bilibili.com/video/BV1nE411D759
+- [Algorithm][012] 最长公共子序列 LCS & 最长上升子序列 LIS [OTTFF]
+- https://www.bilibili.com/video/BV1dJ411D7Xc
+- [Algorithm][013] 区间 DP [OTTFF]
+- https://www.bilibili.com/video/BV1i7411i74r
+- [Algorithm][014] 状态压缩DP [OTTFF]
+- https://www.bilibili.com/video/BV1wE41147Bw
+- [Algorithm][015] 树状 DP [OTTFF]
+- https://www.bilibili.com/video/BV19E411c7zW
+- [Algorithm][016] 数位 DP [OTTFF]
+- https://www.bilibili.com/video/BV1MT4y1376C
+- [Algorithm][017] KMP 字符串匹配算法 [OTTFF]
+- https://www.bilibili.com/video/BV1gt4y1B7Rx
+- [Algorithm][018] 最长回文子串 Manacher [OTTFF]
+- https://www.bilibili.com/video/BV1AX4y1F79W
+
+
+
