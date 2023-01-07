@@ -53,6 +53,7 @@
 - https://liuzhenglaichn.gitbook.io/algorithm/dynamic-programming/bitmask-dp
 - https://github.com/lzl124631x/LeetCode/tree/master/leetcode/1494.%20Parallel%20Courses%20II
 - 媛媛姐算法
+- https://github.com/yuanlu0210/algorithm-notes
 - TODO
 
 ## Q10: 群规简介
